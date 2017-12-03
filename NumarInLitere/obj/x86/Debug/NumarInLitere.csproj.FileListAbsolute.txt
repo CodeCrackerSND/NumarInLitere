@@ -1,0 +1,10 @@
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\bin\Debug\NumarInLitere.exe
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\bin\Debug\NumarInLitere.pdb
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\obj\x86\Debug\NumarInLitere.exe
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\obj\x86\Debug\NumarInLitere.pdb
+D:\NewProjects\NET\NumarInLitere\NumarInLitere\bin\Debug\NumarInLitere.exe
+D:\NewProjects\NET\NumarInLitere\NumarInLitere\bin\Debug\NumarInLitere.pdb
+D:\NewProjects\NET\NumarInLitere\NumarInLitere\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NewProjects\NET\NumarInLitere\NumarInLitere\obj\x86\Debug\NumarInLitere.exe
+D:\NewProjects\NET\NumarInLitere\NumarInLitere\obj\x86\Debug\NumarInLitere.pdb

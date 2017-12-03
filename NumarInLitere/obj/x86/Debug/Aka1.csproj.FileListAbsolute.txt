@@ -1,0 +1,5 @@
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\bin\Debug\Aka1.exe
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\bin\Debug\Aka1.pdb
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\obj\x86\Debug\Aka1.exe
+C:\Users\Mihai\Documents\SharpDevelop Projects\Aka1\Aka1\obj\x86\Debug\Aka1.pdb
